@@ -9,5 +9,6 @@ export default {}
 </script>
 
 <style>
-
+	@import "./reset.css";
+	@import "./iconfont/iconfont.css";
 </style>

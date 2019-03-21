@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    // 把当前路由对应的信息显示出来
     <router-view/>
   </div>
 </template>
